@@ -49,7 +49,3 @@ while menu != 0:
     # Encontrar camino
     elif menu == 4:
         calculadora.encontrar_ruta_mas_corta()
-
-print("    ")
-print("Asi quedo tu ruta")
-calculadora.encontrar_ruta_mas_corta()
